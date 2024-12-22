@@ -15,4 +15,5 @@ By combining multiple approaches, I was able to uncover valuable insights into t
 
 Ultimately, this project demonstrates how machine learning and advanced statistical techniques can significantly enhance the security and efficiency of banking systems. The ability to detect fraud in real time, identify anomalies, and prioritize high-risk transactions has the potential to reduce financial losses, improve customer trust, and strengthen overall banking operations.
 
-Complete workflow of project in blog post[]
+Complete workflow of project in blog post[https://insightsalgorithms.hashnode.dev/fraud-detection-using-machine-learning]
+
